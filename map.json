@@ -69,6 +69,12 @@
          "id":2,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https://meet.google.com/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
